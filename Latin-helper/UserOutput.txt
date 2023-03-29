@@ -1,0 +1,7 @@
+
+# 1
+Word: terrari
+Definition: terra, ae f земля, суша, страна
+###
+
+FILE_END
